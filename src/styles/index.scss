@@ -1,0 +1,10 @@
+@import './generic.scss';
+// @import './responsive.scss';
+// @import "./slick";
+// @import "./slick_theme";
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
